@@ -1,0 +1,57 @@
+{
+    "name": "Discord Orange",
+    "version": "1",
+    "description": "Official Theme of Meeple!",
+    "authors": [
+        {
+            "name": "Connie",
+            "id": "711287717048352849"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": ["#FFFFFF"], 
+        "HEADER_SECONDARY": ["#FFFFFF"], 
+        "INTERACTIVE_ACTIVE": ["#ffbf40"], 
+        "INTERACTIVE_NORMAL": ["#ffffff"], 
+        "INTERACTIVE_MUTED": ["#7f7f7f"], 
+        "BACKGROUND_ACCENT": ["#262626"],
+        "BACKGROUND_MENTIONED": ["#370F8060"],
+        "BACKGROUND_MESSAGE_HOVER": ["#1B0840"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#ffaa00"], 
+        "BACKGROUND_MOBILE_SECONDARY": ["#ff9500"], 
+        "BACKGROUND_PRIMARY": ["#ff8000"], 
+        "BACKGROUND_SECONDARY": ["#ff9500"], 
+        "BACKGROUND_SECONDARY_ALT": ["#ff6a00"], 
+        "BACKGROUND_MODIFIER_ACCENT": ["#16063350"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#370F8050"],
+        "BACKGROUND_MODIFIER_HOVER": ["#0D0D0D"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#380E8060"],
+        "BACKGROUND_TERTIARY": ["#ff6a00"],
+        "CHANNELS_DEFAULT": ["#635CB8"],
+        "CHANNEL_ICON": ["#FFFFFF"],
+        "CHAT_BACKGROUND": ["#ff8000"],
+        "TEXT_DANGER": ["#c00000"], 
+        "TEXT_NORMAL": ["#ffffff"] 
+    },
+    "rawColors": {
+        "BRAND_260": "#FAE6FA",
+        "BRAND_360": "#ffffff",
+        "BRAND_560": "#4719C4",
+        "GREEN_360": "#6243FF",
+        "PRIMARY_230": "#ffffff", 
+        "PRIMARY_600": "#ff8000",
+        "PRIMARY_630": "#ff9500",
+        "PRIMARY_660": "#ffaa00", 
+        "PRIMARY_700": "#ffaa00",
+        "PRIMARY_800": "#ff8000",
+        "RED_400": "#C70C4D",
+        "WHITE_500": "#ffffff",
+        "YELLOW_300": "#411299"
+    },
+    "background": {
+        "blur": 0.6,
+        "url": "https://raw.githubusercontent.com/HfjONEExport/testing/refs/heads/main/discordorange.png",
+        "alpha": 1
+    },
+    "spec": 2
+}
